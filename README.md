@@ -1,12 +1,19 @@
-# React + Vite
+# Vite+ReactJS WebApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# My-React-Form
 
-Currently, two official plugins are available:
+The app is the details collection form where a user can input the required field and submit the inputs and/or can reset the form once submitted.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The current implementation is only limited to the alerting the user for the inputs only. It can however be enhanced for further scope based on requirement.
 
-## Expanding the ESLint configuration
+### 1. Clone the Project
+### 2. Install Dependencies
+```
+npm install
+```
+### 3. Run the app using the following command:
+```
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Reference: https://www.geeksforgeeks.org/reactjs/create-a-form-using-reactjs/
