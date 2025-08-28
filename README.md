@@ -2,6 +2,10 @@
 
 # My-React-Form
 
+Sample: 
+
+![Image](https://github.com/user-attachments/assets/2b917e12-fad5-46a6-89a9-30d9a02d398a)
+
 The app is the details collection form where a user can input the required field and submit the inputs and/or can reset the form once submitted.
 
 The current implementation is only limited to the alerting the user for the inputs only. It can however be enhanced for further scope based on requirement.
